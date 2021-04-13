@@ -1,0 +1,817 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Baum- und Strauchschnitt: Goslar
+UID:f69e72758246a522d8204595c4564db5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210304
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 09.11.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Baum- und Strauchschnitt: Goslar
+UID:b04a4a7b82c466e60b842a3f31e6bb4d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211109
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Jerstedt\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:25447f39cae273141ceecf7226df5ac5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210105
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 19.01.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:ed3886661d9d01e5f5a7ce4f822b780a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210119
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 02.02.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:466aa2baa924fe7b87e3f87f8f834729
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210202
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 16.02.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:a1bace912d9cd4d10b10121b23b3fdd6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210216
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 02.03.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:9eb0b5e198fde50bb8b2376f0d1fd9c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210302
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 16.03.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:624b0edb4b1b3b9dd5df260676b2a931
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210316
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 29.03.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:395036ff9787cf8e19301761c4e34191
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210329
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 13.04.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:9c74c605984b73e08e1d48eae1d98a6e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210413
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 27.04.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:6e647e080804f9b8f20a5ca614299486
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210427
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 11.05.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:44f3df7c983b97055cf816c3637ee5f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210511
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 26.05.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:0331ecf149d60f26e2fbe9d00472d5ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210526
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 08.06.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:3b83142f09ebd819989de3efeeeee4de
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210608
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 22.06.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:8a7bbe7d346003de8436c9dc0371f3c5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210622
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 06.07.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:1097564618669674a0706c627051c3a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210706
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 20.07.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:5941ae1e154896b2c7967c69bbf6bbee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210720
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 03.08.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:73ef90a08fe9aeedd5fbf0fe335bac0d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210803
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 17.08.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:6eff50e320b1381426eacf80c7f770ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210817
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 31.08.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:97b18a1b672371dde71a6ab31f4abc76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210831
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 14.09.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:b9354a8252da69b10ab88a4639819d05
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210914
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 28.09.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:b520502e45f1ff7a14a4ebadccad8c70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210928
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 12.10.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:84997c7ba92987905512937d95443cf5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211012
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 26.10.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:13399a962c548547e6742701c7b2c477
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211026
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 09.11.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:d77bcb91f2b0d5b83bf6c12b2ae507f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211109
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 23.11.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:54ea63c7a87c1b48b5023b8ea45f106c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211123
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 07.12.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:2b0d81f3dc51ba90c8db4088125debe3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211207
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 21.12.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Biotonne: Goslar
+UID:e4cc0b8e943415fb1461cc1bc4fffe73
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211221
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Jerstedt\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Blaue Tonne: Goslar
+UID:36484f746a6735547f0fa017871ee307
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210122
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 19.02.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Blaue Tonne: Goslar
+UID:bce254790eee61986207f9dce34f7a0b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210219
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 19.03.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Blaue Tonne: Goslar
+UID:0d17d04d26f2167bb498df6c53e4a0cd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210319
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 16.04.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Blaue Tonne: Goslar
+UID:4b4983e810c7b7853ef628c67e3dc8f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210416
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 15.05.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Blaue Tonne: Goslar
+UID:7e49d4b3571dd52950dfe8dfb917b17e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210515
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 11.06.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Blaue Tonne: Goslar
+UID:f75c55a326230eeb542d58b310c32501
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210611
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 09.07.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Blaue Tonne: Goslar
+UID:c7e7c0810d4468ef1a176e9df7d2baf3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210709
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 06.08.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Blaue Tonne: Goslar
+UID:dce5c30f715c29398fb0709a08d7a29f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210806
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 03.09.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Blaue Tonne: Goslar
+UID:bdb992701a34f8d6a35b838f727371a3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210903
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 01.10.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Blaue Tonne: Goslar
+UID:af4ad39616367dda56641ee28b9ded71
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211001
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 29.10.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Blaue Tonne: Goslar
+UID:56e1ed32914d71195650d414c31d5d97
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211029
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 26.11.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Blaue Tonne: Goslar
+UID:c6259e007f90483a936c9c4cb75b7eca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211126
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 24.12.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Blaue Tonne: Goslar
+UID:6100b9de02ec5bc86dea8858b6a46701
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211224
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Jerstedt\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Gelber Sack: Goslar
+UID:7ce7bcbefd8731468691fb79755a76c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210122
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 19.02.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Gelber Sack: Goslar
+UID:6b2639a54e8ddfe02ac9d4b32f4809c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210219
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 19.03.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Gelber Sack: Goslar
+UID:e4d23d504f7ab85500334ed826aae81f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210319
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 16.04.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Gelber Sack: Goslar
+UID:9325e3c8566c6badab5b319c851c84b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210416
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 15.05.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Gelber Sack: Goslar
+UID:7a77b4551f64587e8b2f1097398c4288
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210515
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 11.06.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Gelber Sack: Goslar
+UID:814e31f3213e93de2b75a9c755353513
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210611
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 09.07.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Gelber Sack: Goslar
+UID:13fcdfd22b2ab880844ce7b1b2e21649
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210709
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 06.08.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Gelber Sack: Goslar
+UID:7cc886d344904b66a1b503b5cd8f77c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210806
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 03.09.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Gelber Sack: Goslar
+UID:b35c918d4e9212adfab7de33f53dbb43
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210903
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 01.10.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Gelber Sack: Goslar
+UID:45ecb42f1b6808819cdeaefae57988b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211001
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 29.10.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Gelber Sack: Goslar
+UID:43e92da100d338b117f89f91a3103ea1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211029
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 26.11.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Gelber Sack: Goslar
+UID:f478688be12113c5f7b9e777ffbdbe49
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211126
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 24.12.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Gelber Sack: Goslar
+UID:af35bff723c09669875a06f030b96b51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211224
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Jerstedt\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:b69cd47437265f01c38071cb266d14c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210105
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 19.01.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:025daaf1020bd94129e8e93a2262813b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210119
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 02.02.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:ffe198bdc2d98790014b6aacf2310f5b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210202
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 16.02.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:fa51fbe57a255da65cd9e7ba9c01d68a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210216
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 02.03.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:28745ad38cdacc498d3d8ed1d2beb9fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210302
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 16.03.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:ec0125084737240288da5616bc5cdf01
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210316
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 29.03.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:7790c0280608bd6735b478ad123b99be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210329
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 13.04.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:496d4f5b29deac72791e9f7dc908e8ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210413
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 27.04.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:6765f9261d1ccf1b3502f5ff54d7d465
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210427
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 11.05.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:aaff97afafeeda55eceb557f929e84bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210511
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 26.05.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:f0a9e129b3f2dd74549190507d954d67
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210526
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 08.06.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:a517d0860a3d8f10469f554391162ea8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210608
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 22.06.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:b324a81a286df6c1e40b2a5cf27715e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210622
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 06.07.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:010ea4de1a8bcb54e24a3a5f618a58fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210706
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 20.07.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:c1a78b33dd1b17181bc5d61df06da00c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210720
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 03.08.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:465aebccfb370b2bf98451a6891dcdf4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210803
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 17.08.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:8bc0e1df2114b86736dc08570a30189a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210817
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 31.08.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:bfb7738122e7a25c956fb310664d47d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210831
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 14.09.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:fc9f47be911c9e4340c1431f65fd4257
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210914
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 28.09.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:271c928b58cc32bf52660a8edebb5594
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210928
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 12.10.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:53b9c8b10181a9d24829a500af28f82e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211012
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 26.10.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:66046d01d738841d35778df53e3918b9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211026
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 09.11.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:a983619363b00b471f6740058c1a614d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211109
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 23.11.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:52589147f675d8215dc0f5101eeba570
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211123
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 07.12.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:429592dda7e56a7774aff5c95fa025c0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211207
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \nNächster Abholtermin ist am: 21.12.2021
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Restmülltonne: Goslar
+UID:c6d19b60f9f6bb5926c74b8a7023e5e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20211221
+DTSTAMP:20201224T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Jerstedt\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Jerstedt
+SUMMARY:Weihnachtsbäume: Goslar
+UID:6e22ac0f2b2d5303a61f06d5945062ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20210119
+DTSTAMP:20210107T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Jerstedt\n \n
+END:VEVENT
+END:VCALENDAR
